@@ -1,0 +1,4 @@
+.text-field, .password-field {
+    -fx-text-fill: white;
+    -fx-min-width: 300px;
+}
